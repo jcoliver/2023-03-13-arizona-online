@@ -97,6 +97,9 @@ the pitch.
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
 {% endif %}
 
+<-- Note about funding for this workshop -->
+<p>This workshop has been funded in whole or in part with Federal funds from the National Library of Medicine, National Institutes of Health, Department of Health and Human Services, under Cooperative Agreement Number UG4LM013732 with the University of Utah.</p>
+
 {% comment %}
 AUDIENCE
 
